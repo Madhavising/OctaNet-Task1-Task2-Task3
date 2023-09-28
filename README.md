@@ -6,7 +6,7 @@ Here I have completed total 3 allocated tasks are Task 1, Task 2 and Task 3.
 # Task-1 - Product-Landing-Page
 
 Description -
-It highlights the use of HTML and CSS for design we page and emphasizes its purpose in showcasing products or services to 
+It highlights the use of HTML and CSS for design web page and emphasizes its purpose in showcasing products or services to 
 attract potential customers and drive conversions.
 
 Software Requirements -
